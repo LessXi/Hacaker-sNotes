@@ -1,0 +1,90 @@
+
+[ http://fp.tongdun.net | None  |  200   |   Server:openresty ]
+
+[ http://sphinx.tongdun.net | None  |  200   |   Server:openresty ]
+
+[ https://fp.tongdun.net | None  |  200   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://sphinx.tongdun.net | None  |  200   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://miner.tongdun.net | 200  |  200   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ http://api.tongdun.net | 404 Not Found  |  404   |   Server:openresty ]
+
+[ http://apitest.tongdun.net | 404 Not Found  |  404   |   Server:openresty ]
+
+[ https://apitest.tongdun.net | 404 Not Found  |  404   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://cloud.tongdun.net | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ http://auth.tongdun.net  ---->  https://auth.tongdun.net/ | [32m [ JSP ] [0m | 权限管理平台  |  200   |   Server:openresty | null | null ]
+
+[ https://api.tongdun.net | 404 Not Found  |  404   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ http://cloud.tongdun.net  ---->  https://cloud.tongdun.net/ | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://aurora.tongdun.net  ---->  https://login.tongdun.net/login.htm?return=http://aurora.tongdun.net/ | System login  - TD Risk Cloud  |  200   |   Server:None | null | null ]
+
+[ http://miner.tongdun.net | 200  |  200   |   Server:openresty ]
+
+[ http://aurora.tongdun.net  ---->  https://login.tongdun.net/login.htm?return=http://aurora.tongdun.net/ | System login  - TD Risk Cloud  |  200   |   Server:None | null | null ]
+
+[ https://dm.tongdun.net | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ http://demo.tongdun.net  ---->  https://demo.tongdun.net/index | login  |  200   |   Server:None | null | null ]
+
+[ http://cl.tongdun.net | Cognization Lab LLC  |  200   |   Server:None ]
+
+[ http://yypt.tongdun.net | 404 Not Found  |  404   |   Server:openresty ]
+
+[ http://www.tongdun.net  ---->  https://www.tongdun.net/ | 同盾科技-专注于智能风控和分析决策，用智能数据分析帮您预测信用与欺诈风险  |  200   |   Server:None | null | null ]
+
+[ https://field.tongdun.net  ---->  https://login.tongdun.net/login.htm | System login  - TD Risk Cloud  |  200   |   Server:None | null | null ]
+
+[ https://gw.tongdun.net | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://dts.tongdun.net | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://homer.tongdun.net | [32m [ Express ] [0m | Homer  |  200   |   Server:Express | null | null ]
+
+[ https://yypt.tongdun.net | 404 Not Found  |  404   |   Server:openresty | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://oper.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://ej.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ http://dm.tongdun.net  ---->  https://dm.tongdun.net/ | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://mx3.tongdun.net | [ [31m Coremail!!  [0m ] | [32m [ 后台 ] [0m | 同盾科技邮件系统  |  200   |   Server:Apache-Coyote/1.1 | null | null ]
+
+[ https://login.tongdun.net  ---->  https://login.tongdun.net/login.htm | System login  - TD Risk Cloud  |  200   |   Server:openresty | null | null ]
+
+[ http://field.tongdun.net  ---->  https://login.tongdun.net/login.htm | System login  - TD Risk Cloud  |  200   |   Server:None | null | null ]
+
+[ http://static.tongdun.net | 404 Not Found  |  404   |   Server:marco/2.13 ]
+
+[ http://oper.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP ]
+
+[ http://gw.tongdun.net  ---->  https://gw.tongdun.net/ | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://yun.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ http://dts.tongdun.net  ---->  https://dts.tongdun.net/ | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://auth.tongdun.net | [32m [ JSP ] [0m | 权限管理平台  |  200   |   Server:openresty | null | null ]
+
+[ http://login.tongdun.net  ---->  https://login.tongdun.net/login.htm | System login  - TD Risk Cloud  |  200   |   Server:openresty | null | null ]
+
+[ https://static.tongdun.net | 404 Not Found  |  404   |   Server:marco/2.13 | *.b0.upaiyun.com | TrustAsia Technologies, Inc. ]
+
+[ http://lich.tongdun.net  ---->  https://login-inner.tongdun.net/login.htm?return=https://lich.tongdun.net/ekyc/home | None  |  302   |   Server:openresty | null | null ]
+
+[ http://shutter.tongdun.net  ---->  https://shutter.tongdun.net/ | [ [31m Shiro!! [0m ] | Tongdun Cloud  |  200   |   Server:None | null | null ]
+
+[ https://cl.tongdun.net | Cognization Lab LLC  |  200   |   Server:None | *.tongdun.cn | GlobalSign nv-sa ]
+
+[ https://lich.tongdun.net  ---->  https://login-inner.tongdun.net/login.htm?return=https://lich.tongdun.net/ekyc/home | 登录-内部平台  |  200   |   Server:openresty | null | null ]
+
+[ http://my.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP ]
+
+[ http://ej.tongdun.net | Sorry the requested page is blocked for your IP 116.132.134.64  |  404   |   Server:BigIP ]
